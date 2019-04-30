@@ -1,0 +1,11 @@
+<!--pages/xx/xx.wxml-->
+<!--index.wxml-->
+<view class="container">
+  <view class="container">
+    <ff-canvas id="column-dom" canvas-id="column" opts="{{ opts }}"></ff-canvas>
+  </view>
+  <!-- <view class="container">
+    <ff-canvas id="line-dom" canvas-id="column" opts="{{ opts }}"></ff-canvas>
+  </view> -->
+  <!-- <ff-canvas id="line-dom" canvas-id="column" opts="{{ opts }}"></ff-canvas> -->
+</view>

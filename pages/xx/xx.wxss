@@ -1,0 +1,11 @@
+/* pages/xx/xx.wxss */
+#column-dom{
+  height: 600rpx;
+  width: 100%;
+  border: 1px solid #00f;
+}
+#line-dom{
+  height: 600rpx;
+  width: 100%;
+  /* border: 1px solid #f00; */
+}
